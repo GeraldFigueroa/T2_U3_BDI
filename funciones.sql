@@ -61,7 +61,7 @@ USE Northwind;
                 WHEN @MONTH = 9 THEN 'Septiembre'
                 WHEN @MONTH = 10 THEN 'Ocubre'
                 WHEN @MONTH = 11 THEN 'Noviembre'
-                WHEN @MONTH = 11 THEN 'Diciembre'
+                WHEN @MONTH = 12 THEN 'Diciembre'
             END;
         RETURN (@MONTHNAME);
         )
