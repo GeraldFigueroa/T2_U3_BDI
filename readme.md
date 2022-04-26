@@ -10,5 +10,5 @@ Este repositorio contiene los scripts correspondientes a la **tarea #2** de la *
 
 - **funciones.sql** -> Scripts de creación de las funciones requeridas.
 
-[enunciado de la tarea](https://docs.google.com/document/d/194m_5UoTn62T-erKEwC9fRi253xWsYKk/edit))
+[enunciado de la tarea](https://docs.google.com/document/d/194m_5UoTn62T-erKEwC9fRi253xWsYKk/edit)
 
